@@ -1,0 +1,6 @@
+C:\CODES\Code C#\Tirageloto\Tirageloto\bin\Debug\Tirageloto.exe.config
+C:\CODES\Code C#\Tirageloto\Tirageloto\bin\Debug\Tirageloto.exe
+C:\CODES\Code C#\Tirageloto\Tirageloto\bin\Debug\Tirageloto.pdb
+C:\CODES\Code C#\Tirageloto\Tirageloto\obj\Debug\Tirageloto.csprojResolveAssemblyReference.cache
+C:\CODES\Code C#\Tirageloto\Tirageloto\obj\Debug\Tirageloto.exe
+C:\CODES\Code C#\Tirageloto\Tirageloto\obj\Debug\Tirageloto.pdb
