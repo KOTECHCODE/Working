@@ -20,7 +20,7 @@ namespace Tirageloto
             int[] board = new int[8];
             for (int i = 1; i < 8; i++)
             {
-                int randomnumber = num.Next(1, 50); //49 inclus
+                int randomnumber = num.Next(1, 60); //59 inclus
                 if (!board.Contains(randomnumber))
                 {
                     board[i] = randomnumber;
